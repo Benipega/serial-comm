@@ -5,8 +5,8 @@
  * Funciona en Arduino Uno, Nano, Mega, ESP32 y similares.
  * Para un ejemplo de comunicación serial con Python, consultar:
  * https://github.com/cmoralesd/serial-comm
+ * IMPORTANTE: Utilizar Arduino IDE 2.0 o superior. No compatible con versiones previas.
  */
-
 
 // parámetros de la tarjeta
 #define led_0  5  // led verde
